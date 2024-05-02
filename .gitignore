@@ -1,0 +1,7 @@
+node_modules
+.env
+.env.example
+.env.local
+.env.staging
+package-lock.json
+config/googleConfig.json
